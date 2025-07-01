@@ -1,9 +1,10 @@
 body
 {background-color: blue;
-color: white};
+color: white;
+};
 
 header {
     border-bottom: solid 2px rgb(255, 251, 251);
 padding: 20px;
 font-size: 32px ;
-color: floralwhite;}
+color: floralwhite;};
